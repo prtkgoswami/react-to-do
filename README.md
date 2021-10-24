@@ -11,3 +11,5 @@
 - [x] Mark Items as Done
 - [ ] Undo Action
 - [ ] Edit Item
+- [ ] Strike-thourgh Animation
+- [ ] Item Fade Animation
